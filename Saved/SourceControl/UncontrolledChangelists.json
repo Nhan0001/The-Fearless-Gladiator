@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Crouch/Crouch_Idle.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Crouch/Crouh_Walk.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Locomotion/Locomotion_Blendspace_1D.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/ABP_Character.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Crouch/Crouched_Blendspace_1D.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Lean/Lean_Left.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Lean/Lean_Blendspace_1D.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_2.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_1.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/CB/YY4JIQ6PG7MU8PTV1G6CZE.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Assassinations/UE4/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Assassinations/UE4/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Blueprints/BP_Dummy.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Blueprints/BPI_Assassination.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4I/741TU082LXKP92QILRL4RU.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/UI/WB_AssassinatePrompt.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Walk_Stop.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Crouch_Idle.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Crouh_Walk.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Idle_Break.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_02.uasset"
+			]
+		}
+	]
+}
