@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/NISHAN/Documents/Git_DMP/Content/Blueprints/BPC_PlayerStats.uasset",
 				"C:/Users/NISHAN/Documents/Git_DMP/Content/UI/WB_HUD.uasset",
 				"C:/Users/NISHAN/Documents/Git_DMP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
@@ -271,6 +272,8 @@
 				"C:/Users/NISHAN/Documents/Git_DMP/Content/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/BluePrint/BP_DemoDisplay.uasset",
 				"C:/Users/NISHAN/Documents/Git_DMP/Content/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/BluePrint/BP_DemoDisplay_Enum.uasset",
 				"C:/Users/NISHAN/Documents/Git_DMP/Content/Realistic_Starter_VFX_Pack_Vol2/Blueprints/Spawn_Particle.uasset",
+=======
+>>>>>>> parent of b711585 (Sprinting, Assassination, Sound effects, Stamina, XP and Levels, UI for stamina/level/XP, Fonts.)
 				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Locomotion/Idle_Break.uasset",
 				"C:/Users/NISHAN/Documents/DMP/Gladiator/Content/Characters/Gladiator/Animations/Locomotion/Walk_Stop.uasset",
